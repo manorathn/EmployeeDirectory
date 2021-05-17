@@ -14,7 +14,7 @@
     "react-scripts": "4.0.3",
     "web-vitals": "^1.1.2"
   },
-  "homepage": "https://dora-o.github.io/Employee-Directory",
+  "homepage": "https://manorathn.github.io/EmployeeDirectory/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
